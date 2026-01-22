@@ -2,6 +2,8 @@
 A visual simulation built with JavaFX that models the behavior of a checkout line in a grocery store. The system calculates waiting times, random customer arrivals, and cashier efficiency.
 
 ![SuperMarketSimulation](cashier.gif)
+
+
 Customer Arrival: Circles appear in the queue container at random intervals.
 Processing: The cashier square changes color to Coral when a customer is being served.
 Queue Updates: The "Actual line" and "Max line" statistics update every simulation minute.
